@@ -217,7 +217,7 @@ All colors will have a lighter/darker variant.
 	</tr>
     <tr>
 		<td><img src="https://placehold.co/15x15/d669ff/d669ff.png" width="23"/></td>
-        <td>Purple</td>
+        <td>LightPurple</td>
 		<td><code>#d669ff</code></td>
 		<td><code>rgb(214, 105, 255)</code></td>
 		<td><code>hsl(284, 100%, 71%)</code></td>
