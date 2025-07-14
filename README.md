@@ -94,8 +94,6 @@ All colors will have a lighter/darker variant.
 		<td><code>rgb(246, 240, 255)</code></td>
 		<td><code>hsl(264, 100%, 97%)</code></td>
 	</tr>
-</table>
-<table>
     <tr>
 		<td><img src="https://placehold.co/15x15/f6b3bf/f6b3bf.png" width="23"/></td>
         <td>Pink</td>
