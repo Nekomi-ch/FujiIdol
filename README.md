@@ -2,4 +2,10 @@
 
 ![](assets/banner.png)
 
-A custom color theme for VTuber fans made by a VTuber
+## Design
+
+## Palette
+
+## Ports
+
+## Artwork
