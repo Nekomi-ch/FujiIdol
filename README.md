@@ -230,7 +230,9 @@ All colors will have a lighter/darker variant.
 - [kitty](https://github.com/Nekomi-ch/FujiIdol-kitty)
 - [rofi](https://github.com/Nekomi-ch/FujiIdol-rofi)
 
-To-do: [neovim](https://github.com/Nekomi-ch/FujiIdol.nvim)
+[TODO]: 
+- [neovim](https://github.com/Nekomi-ch/FujiIdol.nvim)
+- tmux
 
 ## Contribution
 
